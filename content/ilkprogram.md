@@ -1,4 +1,4 @@
-[🢀 Ana Sayfa](https://github.com/levham/github-readme-guide/blob/main/README.md)
+[🢀 Ana Sayfa](https://github.com/levham/java-lesson/blob/main/README.md)
 
 # Java İlk Program
 
