@@ -53,5 +53,6 @@ public class Main {
     }
 }
 ```
-Araba@6d06d69c gibi bir çıktı yerine 
+Araba@6d06d69c gibi bir çıktı yerine
+ 
 Araba [marka=BMW, yil=2020] gibi bir çıktı için toString i override ettik 
