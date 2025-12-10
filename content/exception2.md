@@ -1,7 +1,6 @@
 [🢀 Ana Sayfa](https://github.com/levham/java-lesson/blob/main/README.md)
 
-# Exceptionlar
-
+# Exceptionlar 2
 
 |Kategori	|Exception Türü		|Açıklama		|Ne Zaman Karşına Çıkar?|
 |---|---|---|---|
