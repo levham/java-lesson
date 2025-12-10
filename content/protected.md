@@ -2,16 +2,12 @@
 
 # protected
 
-```
-protected String odemeYontemi;
-protected double tutar;
-```
-
 Aynı sınıf içinde: protected olarak tanımlanan üyeler, sınıfın içinde erişilebilir.
 Aynı paket içinde: Aynı paket içindeki diğer sınıflardan da erişilebilir.
 Alt sınıflarda: Bu sınıfı miras alan (subclass) sınıflarda da erişilebilir.
 Sınıf dışı kodlardan: Diğer paketlerdeki sınıflardan, bu sınıfın protected üyelerine doğrudan erişilemez.
 
+```
 class Animal {
     protected String name;
 
@@ -35,6 +31,7 @@ public class Main {
         dog.display();  // Erişim mümkün
     }
 }
+```
 
 Bu örnekte, Dog sınıfı Animal sınıfını miras alır ve Animal sınıfındaki protected üyelere erişebilir.
 
