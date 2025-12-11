@@ -2,22 +2,22 @@
 
 | Konular          | İçerik                                                                          |
 | ---------------- | ------------------------------------------------------------------------------- |
-| Java Anahtar Kelimeler | [🢆 Java İlk Program](https://github.com/levham/java-lesson/blob/main/content/anahtarkelimelistesi.md) |
-| Java İlk Program 						 | [🢆 Java İlk Program](https://github.com/levham/java-lesson/blob/main/content/ilkprogram.md) |
-| Program Çalıştırma .java,.jar.exe      | [🢆 Javada Program Çalıştırma](https://github.com/levham/java-lesson/blob/main/content/programcalistirma.md) |
-| Ekrana Yazı Yazdırma                   | [🢆 Ekrana Yazı Yazdırma ](https://github.com/levham/java-lesson/blob/main/content/ekranayaziyazma.md)|
-| Değişkenler                            | [🢆 Değişkenler](https://github.com/levham/java-lesson/blob/main/content/degisken.md)|
-| if-else                                | [🢆 if-else ](https://github.com/levham/java-lesson/blob/main/content/ifelse.md)|
-| switch                                 | [🢆 switch ](https://github.com/levham/java-lesson/blob/main/content/switch.md)|
-| for döngüsü                            | [🢆 for](https://github.com/levham/java-lesson/blob/main/content/for.md)|
-| while, do-while döngüsü                | [🢆 while](https://github.com/levham/java-lesson/blob/main/content/while.md)|
-| Diziler (Arrays)                       | [🢆 Diziler](https://github.com/levham/java-lesson/blob/main/content/dizi.md)|
-| Liste Yapıları                         | [🢆 Liste Yapıları](https://github.com/levham/java-lesson/blob/main/content/liste.md)|
-| Sözlük Yapıları                        | [🢆 Sözlük Yapıları](https://github.com/levham/java-lesson/blob/main/content/sozluk.md)|
-| Enum                                   | [🢆 Enum](https://github.com/levham/java-lesson/blob/main/content/enum.md)|
-| Try Catch Finally                      | [🢆 Try Catch Finally](https://github.com/levham/java-lesson/blob/main/content/trycatch.md)|
-| Exceptionlar                           | [🢆 Exception1](https://github.com/levham/java-lesson/blob/main/content/exception1.md)|
-| Exception2                             | [🢆 Exception2](https://github.com/levham/java-lesson/blob/main/content/exception2.md)|
+| Java Anahtar Kelimeler | [🢆 Java İlk Program](https://github.com/levham/java-lesson/blob/main/content/basic/anahtarkelimelistesi.md) |
+| Java İlk Program 						 | [🢆 Java İlk Program](https://github.com/levham/java-lesson/blob/main/content/basic/ilkprogram.md) |
+| Program Çalıştırma .java,.jar.exe      | [🢆 Javada Program Çalıştırma](https://github.com/levham/java-lesson/blob/main/content/basic/programcalistirma.md) |
+| Ekrana Yazı Yazdırma                   | [🢆 Ekrana Yazı Yazdırma ](https://github.com/levham/java-lesson/blob/main/content/basic/ekranayaziyazma.md)|
+| Değişkenler                            | [🢆 Değişkenler](https://github.com/levham/java-lesson/blob/main/content/basic/degisken.md)|
+| if-else                                | [🢆 if-else ](https://github.com/levham/java-lesson/blob/main/content/basic/ifelse.md)|
+| switch                                 | [🢆 switch ](https://github.com/levham/java-lesson/blob/main/content/basic/switch.md)|
+| for döngüsü                            | [🢆 for](https://github.com/levham/java-lesson/blob/main/content/basic/for.md)|
+| while, do-while döngüsü                | [🢆 while](https://github.com/levham/java-lesson/blob/main/content/basic/while.md)|
+| Diziler (Arrays)                       | [🢆 Diziler](https://github.com/levham/java-lesson/blob/main/content/basic/dizi.md)|
+| Liste Yapıları                         | [🢆 Liste Yapıları](https://github.com/levham/java-lesson/blob/main/content/basic/liste.md)|
+| Sözlük Yapıları                        | [🢆 Sözlük Yapıları](https://github.com/levham/java-lesson/blob/main/content/basic/sozluk.md)|
+| Enum                                   | [🢆 Enum](https://github.com/levham/java-lesson/blob/main/content/basic/enum.md)|
+| Try Catch Finally                      | [🢆 Try Catch Finally](https://github.com/levham/java-lesson/blob/main/content/basic/trycatch.md)|
+| Exceptionlar                           | [🢆 Exception1](https://github.com/levham/java-lesson/blob/main/content/basic/exception1.md)|
+| Exception2                             | [🢆 Exception2](https://github.com/levham/java-lesson/blob/main/content/basic/exception2.md)|
 
 <!--
 | Veri Tipleri                           | [🢆 Veri Tipleri](https://github.com/levham/java-lesson/blob/main/content/.md)|
@@ -33,18 +33,20 @@
 ## Nesne Yönelimli Programlama (OOP)
 | Konular | İçerik |
 | ---------------- |------------------- | 
-| Sınıf ve Nesne | [Class](https://github.com/levham/java-lesson/blob/main/content/class.md) |
-| Yapıcı Metodlar | [Constructor ](https://github.com/levham/java-lesson/blob/main/content/yapicimetod.md) |
-| Kalıtım  | [Encapsulation](https://github.com/levham/java-lesson/blob/main/content/kalitim.md) |
-| Kapsülleme  | [Encapsulation](https://github.com/levham/java-lesson/blob/main/content/kapsulleme.md) |
-| Composition(Bileşen)  | [Composition](https://github.com/levham/java-lesson/blob/main/content/composition.md) |
-| Sınıflar Arası İlişkiler  | [Sınıflar Arası İlişkiler](https://github.com/levham/java-lesson/blob/main/content/iliski.md) |
-| Interface (Soyutlama )  | [Interface](https://github.com/levham/java-lesson/blob/main/content/interface.md) |
-| Abstract  (Soyut Sınıf) | [Abstract](https://github.com/levham/java-lesson/blob/main/content/abstract.md) |
+| Sınıf ve Nesne | [Class](https://github.com/levham/java-lesson/blob/main/content/oop/class.md) |
+| Yapıcı Metodlar | [Constructor ](https://github.com/levham/java-lesson/blob/main/content/oop/yapicimetod.md) |
+| Kalıtım  | [Encapsulation](https://github.com/levham/java-lesson/blob/main/content/oop/kalitim.md) |
+| Kapsülleme  | [Encapsulation](https://github.com/levham/java-lesson/blob/main/content/oop/kapsulleme.md) |
+| Composition(Bileşen)  | [Composition](https://github.com/levham/java-lesson/blob/main/content/oop/composition.md) |
+| Sınıflar Arası İlişkiler  | [Sınıflar Arası İlişkiler](https://github.com/levham/java-lesson/blob/main/content/oop/iliski.md) |
+| Interface (Soyutlama )  | [Interface](https://github.com/levham/java-lesson/blob/main/content/oop/interface.md) |
+| Abstract  (Soyut Sınıf) | [Abstract](https://github.com/levham/java-lesson/blob/main/content/oop/abstract.md) |
 
 
 
-<!--
+
+
+,<!--
 | Çok Biçimlilik | [Polymorphism](https://github.com) |
 | Soyutlama   | [Abstraction](https://github.com) |
 -->
@@ -73,10 +75,14 @@
 ### Anahtar Kelimeler
 | Konular | İçerik |
 | ---------------- |------------------- |
-| import     | [🢆 import](https://github.com/levham/java-lesson/blob/main/content/import.md) |
-| protected  | [🢆 protected](https://github.com/levham/java-lesson/blob/main/content/protected.md) |
-| this       | [🢆 this](https://github.com/levham/java-lesson/blob/main/content/this.md) |
-| static     | [🢆 static](https://github.com/levham/java-lesson/blob/main/content/static.md) |
-| super      | [🢆 super](https://github.com/levham/java-lesson/blob/main/content/super.md) |
-| final      | [🢆 final](https://github.com/levham/java-lesson/blob/main/content/final.md) |
+| import     | [🢆 import](https://github.com/levham/java-lesson/blob/main/content/word/import.md) |
+| protected  | [🢆 protected](https://github.com/levham/java-lesson/blob/main/content/word/protected.md) |
+| this       | [🢆 this](https://github.com/levham/java-lesson/blob/main/content/word/this.md) |
+| static     | [🢆 static](https://github.com/levham/java-lesson/blob/main/content/word/static.md) |
+| super      | [🢆 super](https://github.com/levham/java-lesson/blob/main/content/word/super.md) |
+| final      | [🢆 final](https://github.com/levham/java-lesson/blob/main/content/word/final.md) |
 
+
+string[] files={"class.md","yapicimetod.md","kalitim.md","kapsulleme.md","composition.md","iliski.md","interface.md","abstract.md"}
+
+string[] files2={"import.md","protected.md","this.md","static.md","super.md","final.md"}
