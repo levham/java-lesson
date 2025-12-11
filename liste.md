@@ -2,30 +2,52 @@
 
 # Liste Yapıları
 
-|Yapı	|Özellikler	|Kullanım Senaryosu|
-|ArrayList	|- Dinamik boyutlu dizi|Sık erişim yapılan, sıralı veri tutmak için|
-|		|- Hızlı erişim (index ile)|.|
-|		|- Ekleme/silme yavaş olabilir (ortada işlem yapınca)|.|
-|LinkedList	|- Çift bağlı liste|Kuyruk (Queue), yığın (Stack) gibi veri yapıları için|
-|		|- Ortadan ekleme/silme hızlı|.|
-|		|- Index ile erişim yavaş| .|
-|Vector	|- ArrayList’e benzer|Çoklu thread ortamında güvenli liste gerekirse|
-|		|- Thread-safe (senkronize)|.|
-|		|- Eski yapıdır		| .|
-|Stack	|- Vector’den türetilmiştir|Geri alma (undo), işlem geçmişi, yığın mantığı gereken durumlar|
-|		|- LIFO (Last-In-First-Out) mantığıyla çalışır|	.|	
- 
-|Yapı	|Özellikler	|Kullanım Senaryosu|
-|------|-----|-----|
-|ArrayList|-Dinamik boyutlu dizi|Sık erişim yapılan, sıralı veri tutmak|
-|.|- Hızlı erişim (index ile)|.|
-|.|- Ortada ekleme/silme yavaş|.|
-|LinkedList|Çift bağlı liste<br>- Ortadan ekleme/silme hızlı<br>- Index ile erişim yavaş|Kuyruk (Queue), yığın (Stack) gibi veri yapıları|
-|Vector|ArrayList’e benzer<br>- Thread-safe (senkronize)<br>- Eski yapı|Çoklu thread ortamında güvenli liste|
-|Stack|Vector’den türetilmiştir<br>- LIFO mantığı (Last-In-First-Out)|Undo/geri alma, işlem geçmişi, yığın mantığı|
-|Queue|FIFO mantığı (First-In-First-Out)<br>- add, poll, peek metodları|Kuyruk işlemleri, görev sıralama|
-|Deque|Çift uçlu kuyruk<br>-Hem Stack hem Queue gibi kullanılabilir| Modern Stack/Queue uygulamaları|
-|PriorityQueue|Öncelik sırasına göre çıkarma<br>- Doğal sıralama veya Comparator ile çalışır|Görev önceliği, zamanlama algoritmaları|
+<table>
+  <thead>
+    <tr>
+      <th>Yapı</th>
+      <th>Özellikler</th>
+      <th>Kullanım Senaryosu</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ArrayList</td>
+      <td>- Dinamik boyutlu dizi<br>- Hızlı erişim (index ile)<br>- Ortada ekleme/silme yavaş</td>
+      <td>Sık erişim yapılan, sıralı veri tutmak</td>
+    </tr>
+    <tr>
+      <td>LinkedList</td>
+      <td>Çift bağlı liste<br>- Ortadan ekleme/silme hızlı<br>- Index ile erişim yavaş</td>
+      <td>Kuyruk (Queue), yığın (Stack) gibi veri yapıları</td>
+    </tr>
+    <tr>
+      <td>Vector</td>
+      <td>ArrayList’e benzer<br>- Thread-safe (senkronize)<br>- Eski yapı</td>
+      <td>Çoklu thread ortamında güvenli liste</td>
+    </tr>
+    <tr>
+      <td>Stack</td>
+      <td>Vector’den türetilmiştir<br>- LIFO mantığı (Last-In-First-Out)</td>
+      <td>Undo/geri alma, işlem geçmişi, yığın mantığı</td>
+    </tr>
+    <tr>
+      <td>Queue</td>
+      <td>FIFO mantığı (First-In-First-Out)<br>- add, poll, peek metodları</td>
+      <td>Kuyruk işlemleri, görev sıralama</td>
+    </tr>
+    <tr>
+      <td>Deque</td>
+      <td>Çift uçlu kuyruk<br>- Hem Stack hem Queue gibi kullanılabilir</td>
+      <td>Modern Stack/Queue uygulamaları</td>
+    </tr>
+    <tr>
+      <td>PriorityQueue</td>
+      <td>Öncelik sırasına göre çıkarma<br>- Doğal sıralama veya Comparator ile çalışır</td>
+      <td>Görev önceliği, zamanlama algoritmaları</td>
+    </tr>
+  </tbody>
+</table>
 
 
 
