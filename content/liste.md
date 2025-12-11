@@ -49,8 +49,9 @@
   </tbody>
 </table>
 
+#### ArrayList 
 
-
+En yaygın, hızlı erişim için
 
 ```
 import java.util.ArrayList;
@@ -76,12 +77,10 @@ public class ArrayListOrnek {
     }
 }
 ```
-ArrayList → En yaygın, hızlı erişim için
 
+#### LinkedList 
 
-
-
-
+Ortadan ekleme/silme için uygun 
 ```
 import java.util.LinkedList;
 public class LinkedListOrnek {
@@ -108,12 +107,14 @@ public class LinkedListOrnek {
     }
 }
 ```
-LinkedList → Ortadan ekleme/silme için uygun 
 
 
 
 
 
+#### Vector
+
+ArrayList’e benzer ama senkronizedir. Yani çoklu thread ortamında güvenlidir, fakat bu yüzden biraz daha yavaştır
 ```
 import java.util.Vector;
 public class VectorOrnek {
@@ -138,12 +139,14 @@ public class VectorOrnek {
     }
 }
 ```
-Vector, ArrayList’e benzer ama senkronizedir. Yani çoklu thread ortamında güvenlidir, fakat bu yüzden biraz daha yavaştır
 
 
 
 
 
+#### Stack
+
+LIFO (Last In First Out) mantığıyla çalışır. Yani en son eklenen eleman ilk çıkarılır.
 ```
 import java.util.Stack;
 public class StackOrnek {
@@ -169,12 +172,11 @@ public class StackOrnek {
     }
 }
 ```
-Stack, LIFO (Last In First Out) mantığıyla çalışır. Yani en son eklenen eleman ilk çıkarılır.
 
 
+#### Queue (Kuyruk)  
 
-
-
+eklenen ilk eleman, çıkarılan ilk eleman olur.
 ```
 import java.util.LinkedList;
 import java.util.Queue;
@@ -205,4 +207,3 @@ public class QueueOrnek {
     }
 }
 ```
-Queue (Kuyruk)  eklenen ilk eleman, çıkarılan ilk eleman olur.
