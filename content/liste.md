@@ -80,6 +80,8 @@ ArrayList → En yaygın, hızlı erişim için
 
 
 
+
+
 ```
 import java.util.LinkedList;
 public class LinkedListOrnek {
@@ -107,6 +109,8 @@ public class LinkedListOrnek {
 }
 ```
 LinkedList → Ortadan ekleme/silme için uygun 
+
+
 
 
 
@@ -138,6 +142,8 @@ Vector, ArrayList’e benzer ama senkronizedir. Yani çoklu thread ortamında g�
 
 
 
+
+
 ```
 import java.util.Stack;
 public class StackOrnek {
@@ -164,6 +170,8 @@ public class StackOrnek {
 }
 ```
 Stack, LIFO (Last In First Out) mantığıyla çalışır. Yani en son eklenen eleman ilk çıkarılır.
+
+
 
 
 
