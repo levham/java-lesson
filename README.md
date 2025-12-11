@@ -2,7 +2,7 @@
 
 | Konular          | İçerik                                                                          |
 | ---------------- | ------------------------------------------------------------------------------- |
-| Java Anahtar Kelimeler | [🢆 Java İlk Program](https://github.com/levham/java-lesson/blob/main/content/basic/anahtarkelimelistesi.md) |
+| Java Anahtar Kelimeler 				 | [🢆 Java İlk Program](https://github.com/levham/java-lesson/blob/main/content/basic/anahtarkelimelistesi.md) |
 | Java İlk Program 						 | [🢆 Java İlk Program](https://github.com/levham/java-lesson/blob/main/content/basic/ilkprogram.md) |
 | Program Çalıştırma .java,.jar.exe      | [🢆 Javada Program Çalıştırma](https://github.com/levham/java-lesson/blob/main/content/basic/programcalistirma.md) |
 | Ekrana Yazı Yazdırma                   | [🢆 Ekrana Yazı Yazdırma ](https://github.com/levham/java-lesson/blob/main/content/basic/ekranayaziyazma.md)|
@@ -45,8 +45,7 @@
 
 
 
-
-,<!--
+<!--
 | Çok Biçimlilik | [Polymorphism](https://github.com) |
 | Soyutlama   | [Abstraction](https://github.com) |
 -->
@@ -54,7 +53,10 @@
 ## Input/Output (Dosya İşlemleri)
 | Konular | İçerik |
 | ---------------- |------------------- |
-| | |
+| Dosya Oluştur     | [🢆 ](https://github.com/levham/java-lesson/blob/main/content/file/createfile.md) |
+| Dosyaya Yazdır    | [🢆 ](https://github.com/levham/java-lesson/blob/main/content/file/writefile.md) |
+| Dosya Oku         | [🢆 ](https://github.com/levham/java-lesson/blob/main/content/file/readfile.md) |
+| Dosya Bilgiai     | [🢆 ](https://github.com/levham/java-lesson/blob/main/content/file/infofile.md) |
 
 ## JDBC (Veritabanı Bağlantısı)
 | Konular | İçerik |
@@ -81,8 +83,3 @@
 | static     | [🢆 static](https://github.com/levham/java-lesson/blob/main/content/word/static.md) |
 | super      | [🢆 super](https://github.com/levham/java-lesson/blob/main/content/word/super.md) |
 | final      | [🢆 final](https://github.com/levham/java-lesson/blob/main/content/word/final.md) |
-
-
-string[] files={"class.md","yapicimetod.md","kalitim.md","kapsulleme.md","composition.md","iliski.md","interface.md","abstract.md"}
-
-string[] files2={"import.md","protected.md","this.md","static.md","super.md","final.md"}
