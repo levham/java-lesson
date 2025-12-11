@@ -53,10 +53,10 @@
 ## Input/Output (Dosya İşlemleri)
 | Konular | İçerik |
 | ---------------- |------------------- |
-| Dosya Oluştur     | [🢆 ](https://github.com/levham/java-lesson/blob/main/content/file/createfile.md) |
-| Dosyaya Yazdır    | [🢆 ](https://github.com/levham/java-lesson/blob/main/content/file/writefile.md) |
-| Dosya Oku         | [🢆 ](https://github.com/levham/java-lesson/blob/main/content/file/readfile.md) |
-| Dosya Bilgiai     | [🢆 ](https://github.com/levham/java-lesson/blob/main/content/file/infofile.md) |
+| Dosya Oluştur     | [🢆 Dosya Oluştur ](https://github.com/levham/java-lesson/blob/main/content/file/createfile.md) |
+| Dosyaya Yazdır    | [🢆 Dosyaya Yazdır](https://github.com/levham/java-lesson/blob/main/content/file/writefile.md) |
+| Dosya Oku         | [🢆 Dosya Oku     ](https://github.com/levham/java-lesson/blob/main/content/file/readfile.md) |
+| Dosya Bilgiai     | [🢆 Dosya Bilgiai ](https://github.com/levham/java-lesson/blob/main/content/file/infofile.md) |
 
 ## JDBC (Veritabanı Bağlantısı)
 | Konular | İçerik |
