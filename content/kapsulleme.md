@@ -1,6 +1,7 @@
 [🢀 Ana Sayfa](https://github.com/levham/java-lesson/blob/main/README.md)
 
 # Kapsulleme
+
 Kapsulleme ile private özelliklere public foknsiyonlar sayesinde ulaşırız. 
 aşağıdaki örnkete isim ve yas özelliklerine yapıcı metod üzerinden değer atamış olduk.
 bilgi metoduyla da isim ve yas özelliklerini kullandık.

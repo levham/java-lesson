@@ -1,6 +1,6 @@
 [🢀 Ana Sayfa](https://github.com/levham/java-lesson/blob/main/README.md)
 
-# abstract
+# Abstract
 
 -abstract soyuttur
 -nasıl yapıldığını anlatır

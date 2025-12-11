@@ -1,6 +1,6 @@
 [🢀 Ana Sayfa](https://github.com/levham/java-lesson/blob/main/README.md)
 
-# interface
+# Interface
 
 -interface soyuttur
 -projede hangi fonksiyonları kullanıcağı kurallar listesi gibi bir bölüm 
@@ -57,7 +57,7 @@
 	}
 ```
 
-### diğer özellikler
+### Diğer Özellikler
 
 Bir sınıfa çok fazla interface’i implements ile uygulayana bilir 
 ```
