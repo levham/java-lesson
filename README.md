@@ -15,7 +15,6 @@
 | Liste Yapıları                         | [🢆 Liste Yapıları](https://github.com/levham/java-lesson/blob/main/content/liste.md)|
 | Sözlük Yapıları                        | [🢆 Sözlük Yapıları](https://github.com/levham/java-lesson/blob/main/content/sozluk.md)|
 | Enum                                   | [🢆 Enum](https://github.com/levham/java-lesson/blob/main/content/enum.md)|
-
 | Try Catch Finally                      | [🢆 Try Catch Finally](https://github.com/levham/java-lesson/blob/main/content/trycatch.md)|
 | Exceptionlar                           | [🢆 Exception1](https://github.com/levham/java-lesson/blob/main/content/exception1.md)|
 | Exception2                             | [🢆 Exception2](https://github.com/levham/java-lesson/blob/main/content/exception2.md)|
