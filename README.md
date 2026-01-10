@@ -6,7 +6,9 @@
 | Java İlk Program 						 | [🢆 Java İlk Program](https://github.com/levham/java-lesson/blob/main/content/basic/ilkprogram.md) |
 | Program Çalıştırma .java,.jar.exe      | [🢆 Javada Program Çalıştırma](https://github.com/levham/java-lesson/blob/main/content/basic/programcalistirma.md) |
 | Ekrana Yazı Yazdırma                   | [🢆 Ekrana Yazı Yazdırma ](https://github.com/levham/java-lesson/blob/main/content/basic/ekranayaziyazma.md)|
+| Kullanıcıdan Değer Alma                | [🢆 Kullanıcıdan Değer Alma ](https://github.com/levham/java-lesson/blob/main/content/basic/degeralma.md)|
 | Değişkenler                            | [🢆 Değişkenler](https://github.com/levham/java-lesson/blob/main/content/basic/degisken.md)|
+| String Metodlar              //     | [🢆 String Metodlar](https://github.com/levham/java-lesson/blob/main/content/basic/stringmetodlar.md)|
 | if-else                                | [🢆 if-else ](https://github.com/levham/java-lesson/blob/main/content/basic/ifelse.md)|
 | switch                                 | [🢆 switch ](https://github.com/levham/java-lesson/blob/main/content/basic/switch.md)|
 | for döngüsü                            | [🢆 for](https://github.com/levham/java-lesson/blob/main/content/basic/for.md)|
@@ -16,6 +18,7 @@
 | Sözlük Yapıları                        | [🢆 Sözlük Yapıları](https://github.com/levham/java-lesson/blob/main/content/basic/sozluk.md)|
 | Enum                                   | [🢆 Enum](https://github.com/levham/java-lesson/blob/main/content/basic/enum.md)|
 | Try Catch Finally                      | [🢆 Try Catch Finally](https://github.com/levham/java-lesson/blob/main/content/basic/trycatch.md)|
+| Metod(Fonksiyon)                       | [🢆 Metod](https://github.com/levham/java-lesson/blob/main/content/basic/Metod.md)|
 | Exceptionlar                           | [🢆 Exception1](https://github.com/levham/java-lesson/blob/main/content/basic/exception1.md)|
 | Exception2                             | [🢆 Exception2](https://github.com/levham/java-lesson/blob/main/content/basic/exception2.md)|
 
@@ -49,6 +52,12 @@
 | Çok Biçimlilik | [Polymorphism](https://github.com) |
 | Soyutlama   | [Abstraction](https://github.com) |
 -->
+
+## Console (Konsol)
+| Konular | İçerik |
+| ---------------- |------------------- |
+| Konsol Temizle   | [🢆 Konsol Temizle ](https://github.com/levham/java-lesson/blob/main/content/console/konsoltemizleme.md) |
+| | | 
 
 ## Input/Output (Dosya İşlemleri)
 | Konular | İçerik |
@@ -84,3 +93,5 @@
 | static     | [🢆 static](https://github.com/levham/java-lesson/blob/main/content/word/static.md) |
 | super      | [🢆 super](https://github.com/levham/java-lesson/blob/main/content/word/super.md) |
 | final      | [🢆 final](https://github.com/levham/java-lesson/blob/main/content/word/final.md) |
+| break      | [🢆 break](https://github.com/levham/java-lesson/blob/main/content/word/break.md) |
+| return     | [🢆 return](https://github.com/levham/java-lesson/blob/main/content/word/return.md) |
